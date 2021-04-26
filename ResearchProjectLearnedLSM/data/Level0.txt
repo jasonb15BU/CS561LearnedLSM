@@ -1,0 +1,3 @@
+false,0,NULL,0.000000
+false,1,NULL,10.000000
+false,2,NULL,20.000000
